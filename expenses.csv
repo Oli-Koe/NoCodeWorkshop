@@ -1,0 +1,3 @@
+date,category,vendor,amount_idr,payment,status,note
+2026-10-11,Fuel,,160000,Cash,confirmed,
+2026-10-11,Food,Tiga,203000,Cash,unconfirmed,"amount from memory (""203k i think""), check receipt"
